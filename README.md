@@ -114,6 +114,8 @@ project-name/
 Clone the repository:
 
 git clone https://github.com/yourusername/TEJA-Ai-Model.git
+OR
+jarvis-ai--trktejasbuisnes.replit.app 
 
 Navigate to the project folder:
 
