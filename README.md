@@ -149,7 +149,7 @@ This project is licensed under the MIT License.
 
 **Tejas Khodankar**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/trktejasbuisnessman-commits
 
 ---
 
